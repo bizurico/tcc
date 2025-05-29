@@ -17,13 +17,6 @@
   background-color: #007bff;
 }
 
-header{
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  z-index: 10;
-}
-
 .logo {
   color: #007bff;
   font-size: 4rem;
